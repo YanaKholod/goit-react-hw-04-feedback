@@ -24,4 +24,5 @@ Feedback.propTypes = {
   options: PropTypes.arrayOf(PropTypes.oneOf(['good', 'neutral', 'bad']))
     .isRequired,
 };
+
 export default Feedback;
